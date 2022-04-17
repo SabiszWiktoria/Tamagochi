@@ -1,0 +1,2 @@
+# Tamagochi
+tamagochi w konsoli
