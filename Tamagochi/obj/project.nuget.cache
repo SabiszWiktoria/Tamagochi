@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yCRAcnLd/MrO4UvXr6MRzHx7DQTUSRCz/jfLVW0pV+djvzg4xuQOnymvQIbnMGqcpu8/axmpqMeW7tUbSuJ0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wikiniki\\Desktop\\c#zad\\Tamagochi\\Tamagochi\\Tamagochi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wikiniki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

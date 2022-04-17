@@ -1,0 +1,14 @@
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.exe
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.deps.json
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.runtimeconfig.json
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.runtimeconfig.dev.json
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.dll
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\bin\Debug\netcoreapp3.1\Tamagochi.pdb
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.csprojAssemblyReference.cache
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.AssemblyInfoInputs.cache
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.AssemblyInfo.cs
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.dll
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.pdb
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\Tamagochi\obj\Debug\netcoreapp3.1\Tamagochi.genruntimeconfig.cache

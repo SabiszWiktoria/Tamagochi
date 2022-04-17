@@ -1,0 +1,5 @@
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\TamagochiTest\obj\Debug\netcoreapp3.1\TamagochiTest.csprojAssemblyReference.cache
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\TamagochiTest\obj\Debug\netcoreapp3.1\TamagochiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\TamagochiTest\obj\Debug\netcoreapp3.1\TamagochiTest.AssemblyInfoInputs.cache
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\TamagochiTest\obj\Debug\netcoreapp3.1\TamagochiTest.AssemblyInfo.cs
+C:\Users\wikiniki\Desktop\c#zad\Tamagochi\TamagochiTest\obj\Debug\netcoreapp3.1\TamagochiTest.csproj.CoreCompileInputs.cache
